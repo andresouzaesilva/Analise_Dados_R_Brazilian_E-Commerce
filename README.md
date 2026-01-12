@@ -4,6 +4,8 @@
 
 O projeto foi estruturado para demonstrar **capacidade analítica, domínio da linguagem R, organização de código e comunicação de resultados**.
 
+Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_products_dataset.csv
+
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -103,10 +105,6 @@ A partir desses dados, foram realizadas análises para responder perguntas estra
 📦 teste-tecnico-r
  ┣ 📜 README.md
  ┣ 📜 analysis.R
- ┣ 📁 data/
- ┃ ┣ olist_orders_dataset.csv
- ┃ ┣ olist_order_items_dataset.csv
- ┃ ┗ olist_customers_dataset.csv
  ┣ 📁 plots/
  ┗ 📜 .gitignore
 ```
