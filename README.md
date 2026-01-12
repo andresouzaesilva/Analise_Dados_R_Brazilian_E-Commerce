@@ -4,7 +4,7 @@
 
 O projeto foi estruturado para demonstrar **capacidade analítica, domínio da linguagem R, organização de código e comunicação de resultados**.
 
-Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_products_dataset.csv
+Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/code
 
 ---
 
