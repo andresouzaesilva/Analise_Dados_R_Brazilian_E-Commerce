@@ -104,9 +104,9 @@ A partir desses dados, foram realizadas análises para responder perguntas estra
  ┣ 📜 README.md
  ┣ 📜 analysis.R
  ┣ 📁 data/
- ┃ ┣ orders.csv
- ┃ ┣ order_items.csv
- ┃ ┗ customers.csv
+ ┃ ┣ olist_orders_dataset.csv
+ ┃ ┣ olist_order_items_dataset.csv
+ ┃ ┗ olist_customers_dataset.csv
  ┣ 📁 plots/
  ┗ 📜 .gitignore
 ```
