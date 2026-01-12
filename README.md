@@ -104,7 +104,7 @@ A partir desses dados, foram realizadas análises para responder perguntas estra
 ```
 📦 teste-tecnico-r
  ┣ 📜 README.md
- ┣ 📜 analysis.R
+ ┣ 📜 analise.R
  ┣ 📁 plots/
  ┗ 📜 .gitignore
 ```
